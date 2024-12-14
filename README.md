@@ -68,6 +68,6 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename 
 </p> 
 <p>
 <p>
-Congrats you're done, just finish signing up and you're good to go!
+Congrats you're done, just finish the installation process, and you're good to go!
 <img src="https://imgur.com/w6YKZbD.png" height="80%" width="80%" alt="Steps 8"/>
 </p>
